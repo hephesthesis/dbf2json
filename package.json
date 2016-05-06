@@ -21,7 +21,10 @@
   },
   "keywords": [
     "dbf",
-    "dbfEditor",
+    "dbf2json",
+    "json",
+    "dbf editor",
+    "dbf parser",
     "dBase"
   ],
   "author": "Sundar",
