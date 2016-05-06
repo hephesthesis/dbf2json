@@ -1,0 +1,36 @@
+{
+  "name": "dbf2json",
+  "version": "0.0.1",
+  "description": "utility to convert dbf file to a json.",
+  "main": "index.js",
+  "dependencies": {
+    "jszip": "~0.2.1",
+    "iconv": "~2.0.7",
+    "exec-sync": "~0.1.6"
+  },
+  "devDependencies": {
+    "coffee-script": ">=1.3.3"
+  },
+  "scripts": {
+    "test": "node",
+    "prepublish": "cake build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hephesthesis/dbf2json.git"
+  },
+  "keywords": [
+    "dbf",
+    "dbfEditor",
+    "dBase"
+  ],
+  "author": "karthi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hephesthesis/dbf2json/issues"
+  },
+  "homepage": "https://github.com/hephesthesis/dbf2json.git#readme",
+  "directories": {
+    "test": "test"
+  }
+}
